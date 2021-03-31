@@ -1,0 +1,17 @@
+MOCHILA DEL VIAJERO
+Práctica Individual Obligatoria
+
+1. ¿Quién inventó el sistema de control de versión Git y por qué?
+Git fue creado por Linus Torvalds en 2005 para ser utilizado en el desarrollo del kernel de Linux. 
+Desde sus incios busca respondar a las necesidades del mundo del desarrollo de mantener un backup organizado
+y poder trabajar colaborativamente compartiendo en un equipo de trabajo los archivos generados en el proceso.
+
+2. ¿A quién pertenece actualmente Github y por qué?
+En 2018, Microsoft compró Github, que en ese momento ya era el mayor repositorio de código del mundo,
+aunando a millones de desarrolladores. Siendo una empresa fundada por desarrolladores, 
+Microsoft siempre ha brindado herramientas a esta comunidad y ha buscado captar cada vez a más desarrolladores
+en todo el mundo. La compra de Github fue una más en una serie de inversiones que la empresa viene haciendo 
+históricamente y que sigue hasta el día de hoy. 
+
+3. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+Sí, GitHub Desktop permite gestionar repositorios de Git de forma gráfica desde Windows
